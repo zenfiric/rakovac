@@ -1,8 +1,13 @@
 [build]
-publish = "public"
-command = "yarn project-setup && yarn build"
+  publish = "public"
+  command = "hugo --gc --themesDir themes"
 
 [build.environment]
-HUGO_VERSION = "0.115.1"
-GO_VERSION = "1.20.5"
-HUGO_BASEURL = "/"
+  HUGO_VERSION = "0.115.1"
+  HUGO_BASEURL = "/"
+  HUGO_THEME = "hargo-hugo"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
