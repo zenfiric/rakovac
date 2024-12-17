@@ -1,0 +1,38 @@
+logo = "images/logo.png"
+home = "Home"
+description = "This is meta description"
+author = "Zenari.nl"
+mobile = "+31 6 28205120"
+email = "aleksandra@vraagdetandartsonline.nl"
+location = "Alkmaar, The Nederlands"
+copyright = ""
+currencySymbol = "€"
+
+[preloader]
+enable = true
+preloader = ""
+
+[rating]
+enable = true
+websiteID = "444334"
+publicKey = "811cf0927332bf51f2e12f84608594ac"
+
+[[social]]
+icon = "ti-facebook"
+link = "#"
+
+[[social]]
+icon = "ti-twitter-alt"
+link = "#"
+
+[[social]]
+icon = "ti-instagram"
+link = "#"
+
+[[social]]
+icon = "ti-youtube"
+link = "#"
+
+# Contact Form
+[contact]
+formAction = "#" # contact form works with formspree.io

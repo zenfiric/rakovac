@@ -1,0 +1,13 @@
+################################ Dutch Language ########################
+[nl]
+languageName = "Nederlands"
+languageCode = "nl-NL"
+contentDir = "content/nl"
+weight = 1
+
+################# English language ################
+[en]
+languageName = "English"
+languageCode = "en-US"
+contentDir = "content/en"
+weight = 2
