@@ -1,27 +1,22 @@
 ############################ banner ##########################
 banner:
-  enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
-  image : "images/banner.png"
-  # button
+  enable: true
+  title: "Online consultaties"
+  content: "Door middel van online consultaties en een uitgebreide analyse van de situatie, gebaseerd op röntgenologische fotos en schriftelijke documentaties, geef ik snel en deskundig advies."
+  image: "images/banner.png"
   button:
-    enable : true
-    label : "All Products"
-    link : "products/"
-  # demo video
+    enable: true
+    label: "Alle Producten"
+    link: "nl/products/"
   video:
-    enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    enable: false
+    videoURL: "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "Help met angst"
+  content : "Ook bied ik ondersteuning in de zoektocht naar een eigen tandarts, adviseer over het onderhoud en verbetering van de mondgezondheid en help met angst om te gaan in de dagelijkse praktijk."
   image : "images/about.png"
 
 
@@ -38,7 +33,7 @@ cta:
 
 ######################## raw material #######################
 material:
-  enable : true
+  enable : false
   title : "Ingredients Of Our Products"
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dol."
@@ -66,8 +61,8 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  title : "Vertrouwelijke conform"
+  subtitle : "Alle informatie verstrekt door de patiënten, behandel ik als vertrouwelijke conform met de regels van de privacywet."
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
@@ -81,7 +76,7 @@ advantage:
 
 ######################## Promo Video ##########################
 video:
-  enable : true
+  enable : false
   title : "How To Use This Product?"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
@@ -91,14 +86,14 @@ video:
 
 ######################## Products #############################
 products:
-  enable : true
+  enable : false
   title : "Products List"
   # product item comes from "content/products"
 
 
 ########################## Testimonial ########################
 testimonial:
-  enable : true
+  enable : false
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop
