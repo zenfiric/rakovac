@@ -15,15 +15,7 @@ disqusShortname = "themefisher-template" # we use disqus to show comments in blo
 
 ######################## multilingual config ####################
 languageCode = "nl"
-
-defaultContentLanguage = "en"
-[languages]
-  [languages.en]
-    languageName = "English"
-    weight = 1
-  [languages.nl]
-    languageName = "Nederlands"
-    weight = 2
+defaultContentLanguage = "nl"
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
@@ -70,24 +62,3 @@ maxAge = "720h"
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
-
-############################# Plugins ##############################
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  link = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  link = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  link = "plugins/themify-icons/themify-icons.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  link = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  link = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  link = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  link = "plugins/google-map/gmap.js"

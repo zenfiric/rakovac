@@ -1,5 +1,5 @@
 [[main]]
-  name = "Producten"
+  name = "Services"
   URL = "/nl/products/"
   weight = 1
 
@@ -19,7 +19,7 @@
   weight = 4
 
 [[footer]]
-  name = "Producten"
+  name = "Services"
   URL = "/nl/products/"
   weight = 1
 

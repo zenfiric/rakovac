@@ -1,44 +1,44 @@
 [[main]]
-  name = "Producten"
-  URL = "/nl/products/"
+  name = "Services"
+  URL = "/en/products/"
   weight = 1
 
 [[main]]
   name = "Blog"
-  URL = "/nl/blog/"
+  URL = "/en/blog/"
   weight = 2
 
 [[main]]
   name = "FAQ"
-  URL = "/nl/faq/"
+  URL = "/en/faq/"
   weight = 3
 
 [[main]]
   name = "Contact"
-  URL = "/nl/contact/"
+  URL = "/en/contact/"
   weight = 4
 
 [[footer]]
-  name = "Producten"
-  URL = "/nl/products/"
+  name = "Services"
+  URL = "/en/products/"
   weight = 1
 
 [[footer]]
   name = "Blog"
-  URL = "/nl/blog/"
+  URL = "/en/blog/"
   weight = 2
 
 [[footer]]
   name = "FAQ"
-  URL = "/nl/faq/"
+  URL = "/en/faq/"
   weight = 3
 
 [[footer]]
-  name = "Algemene Voorwaarden"
-  URL = "/nl/terms-conditions/"
+  name = "Terms and Conditions"
+  URL = "/en/terms-conditions/"
   weight = 4
 
 [[footer]]
   name = "Contact"
-  URL = "/nl/contact/"
+  URL = "/en/contact/"
   weight = 5

@@ -36,3 +36,24 @@ link = "#"
 # Contact Form
 [contact]
 formAction = "#" # contact form works with formspree.io
+
+############################# Plugins ##############################
+[plugins]
+
+  # CSS Plugins
+  [[plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[plugins.js]]
+  link = "plugins/google-map/gmap.js"
