@@ -32,17 +32,16 @@
           {{ end }}
           {{ end }}
         </ul>
-      </div>
-      {{/*  <button class="cart snipcart-summary"><a href="" class="snipcart-checkout text-dark"><i class="ti-shopping-cart"></i><span class="badge badge-primary snipcart-items-count"></span></a></button>  */}}
-      <ul>
+        
+        <!-- Language switcher -->
         {{ range .Site.Languages }}
-          <li>
-            <a href="{{ relURL (cond (eq . $.Site.Language) "" (print .Lang "/")) }}">
+          {{ if not (eq . $.Site.Language) }}
+            <a class="nav-link" href="{{ relURL (print .Lang "/") }}">
               {{ .LanguageName }}
             </a>
-          </li>
+          {{ end }}
         {{ end }}
-      </ul>
+      </div>
     </nav>
   </div>
 </header>
