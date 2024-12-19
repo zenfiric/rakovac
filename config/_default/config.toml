@@ -16,6 +16,7 @@ disqusShortname = "themefisher-template" # we use disqus to show comments in blo
 ######################## multilingual config ####################
 languageCode = "nl"
 defaultContentLanguage = "nl"
+defaultContentLanguageInSubdir = true
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
