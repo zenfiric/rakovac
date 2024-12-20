@@ -9,20 +9,30 @@
   <div class="container">
     <div class="row">
       <div class="col-12 mb-5">
-        <div class="content">
-          {{.Content}}
+        <div class="row align-items-start">
+          <div class="col-lg-7">
+            <div class="content">
+              {{.Content}}
+            </div>
+          </div>
+          <div class="col-lg-5">
+            <div class="sticky-top" style="top: 100px;">
+              <img class="img-fluid rounded" src="{{ .Params.image | absURL }}" alt="Aleksandra Rakovac">
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-lg-4">
         <div class="sticky-top top-100">
-        <h3 class="mb-4">Ask Your Question</h3>
-        <form action="{{ site.Params.contact.formAction }}" method="POST">
-          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
-          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
-          <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
-          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Send Now</button>
-        </form>
-      </div></div>
+          <h3 class="mb-4">Ask Your Question</h3>
+          <form action="{{ site.Params.contact.formAction }}" method="POST">
+            <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
+            <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
+            <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+            <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Send Now</button>
+          </form>
+        </div>
+      </div>
       {{ with site.Data.about}}
       <div class="col-lg-7 offset-lg-1">
         <div id="accordion" class="mt-5">
