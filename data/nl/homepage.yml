@@ -3,11 +3,11 @@ banner:
   enable: true
   title: "Online consultaties"
   content: "Door middel van online consultaties en een uitgebreide analyse van de situatie, gebaseerd op röntgenologische fotos en schriftelijke documentaties, geef ik snel en deskundig advies."
-  image: "images/banner.png"
+  image: "images/online.webp"
   button:
     enable: true
     label: "Alle Producten"
-    link: "nl/products/"
+    link: "/nl/products/"
   video:
     enable: false
     videoURL: "https://www.youtube.com/embed/wf4F2-9UXUo"
@@ -17,7 +17,7 @@ about:
   enable : true
   title : "Help met angst"
   content : "Ook bied ik ondersteuning in de zoektocht naar een eigen tandarts, adviseer over het onderhoud en verbetering van de mondgezondheid en help met angst om te gaan in de dagelijkse praktijk."
-  image : "images/about.png"
+  image : "images/support.webp"
 
 
 ###################### Call to action ########################
@@ -63,15 +63,15 @@ advantage:
   enable : true
   title : "Vertrouwelijke conform"
   subtitle : "Alle informatie verstrekt door de patiënten, behandel ik als vertrouwelijke conform met de regels van de privacywet."
-  image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+  image : "images/safe.webp"
+  # advantageList:
+  #   # advantage list loop
+  #   - listItem : "Extremely lightweight"
+  #   - listItem : "Excellent breathability"
+  #   - listItem : "Can increase Cell activation"
+  #   - listItem : "Glowing Skin In 7 Days"
+  #   - listItem : "Increasing Glow Of Face"
+  #   - listItem : "More Beautiful Face Skin"
 
 
 ######################## Promo Video ##########################
