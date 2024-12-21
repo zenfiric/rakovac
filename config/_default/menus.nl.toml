@@ -20,7 +20,7 @@
 
 [[footer]]
   name = "Services"
-  URL = "/nl/products/"
+  URL = "/nl/services/"
   weight = 1
 
 [[footer]]
@@ -40,5 +40,5 @@
 
 [[footer]]
   name = "Contact"
-  URL = "/nl/contact/"
+  URL = "/nl/services/"
   weight = 5
