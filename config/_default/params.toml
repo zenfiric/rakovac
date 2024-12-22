@@ -35,7 +35,7 @@ link = "#"
 
 # Contact Form
 [contact]
-formAction = "#" # contact form works with formspree.io
+formAction = "https://formspree.io/f/myzzyyqa" # contact form works with formspree.io
 
 ############################# Plugins ##############################
 [plugins]

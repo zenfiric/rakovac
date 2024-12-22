@@ -1,4 +1,14 @@
 - id: important_link
   translation: Important Links
 - id: connect_us
-  translation: Connect With Us
+  translation: Connect
+- id: contact_us
+  translation: Contact Us
+- id: your_name
+  translation: Your Name
+- id: your_email
+  translation: Your Email
+- id: your_message
+  translation: Your Message
+- id: submit
+  translation: Submit

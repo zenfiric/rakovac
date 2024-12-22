@@ -1,4 +1,14 @@
 - id: important_link  
-  translation: Belangrijke Links
+  translation: Belangrijke links
 - id: connect_us  
-  translation: Neem Contact Met Ons Op
+  translation: Neem connect op
+- id: contact_us
+  translation: Contact ons
+- id: your_name
+  translation: Uw naam
+- id: your_email
+  translation: Uw email
+- id: your_message
+  translation: Uw bericht
+- id: submit
+  translation: Indienen
