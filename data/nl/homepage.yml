@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Alle Producten"
-    link: "/nl/products/"
+    link: "/nl/services/"
   video:
     enable: false
     videoURL: "https://www.youtube.com/embed/wf4F2-9UXUo"
@@ -28,13 +28,13 @@ cta:
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
-    link : "products/"
+    label : "All Services"
+    link : "services/"
 
 ######################## raw material #######################
 material:
   enable : false
-  title : "Ingredients Of Our Products"
+  title : "Ingredients Of Our Services"
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dol."
   materialItem:
@@ -84,11 +84,11 @@ video:
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 
-######################## Products #############################
-products:
+######################## Services #############################
+services:
   enable : false
-  title : "Products List"
-  # product item comes from "content/products"
+  title : "Services List"
+  # product item comes from "content/services"
 
 
 ########################## Testimonial ########################

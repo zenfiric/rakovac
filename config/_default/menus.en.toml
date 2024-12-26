@@ -1,6 +1,6 @@
 [[main]]
   name = "Services"
-  URL = "/en/products/"
+  URL = "/en/services/"
   weight = 1
 
 [[main]]
