@@ -1,11 +1,12 @@
 logo = "images/logo.png"
 home = "Home"
 description = "This is meta description"
-author = "Zenari.nl"
+author = "zenari.nl"
 mobile = "+31 6 28205120"
 email = "aleksandra@vraagdetandartsonline.nl"
 location = "Alkmaar, The Nederlands"
 copyright = ""
+snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "€"
 
 [preloader]
