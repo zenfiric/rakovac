@@ -12,3 +12,5 @@
   translation: Your Message
 - id: submit
   translation: Submit
+- id: ask
+  translation: Ask Your Question
