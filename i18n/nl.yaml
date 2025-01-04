@@ -14,3 +14,5 @@
   translation: Indienen
 - id: ask
   translation: Stel je vraag
+- id: add_to_cart
+  translation: Toevoegen

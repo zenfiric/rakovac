@@ -14,3 +14,5 @@
   translation: Submit
 - id: ask
   translation: Ask Your Question
+- id: add_to_cart
+  translation: Add to cart
