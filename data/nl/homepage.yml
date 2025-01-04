@@ -6,7 +6,7 @@ banner:
   image: "images/online.webp"
   button:
     enable: true
-    label: "Alle Producten"
+    label: "Alle Services"
     link: "/nl/services/"
   video:
     enable: false
