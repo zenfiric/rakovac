@@ -4,8 +4,8 @@ contact:
   # office
   office:
     title : "Central Office"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
-    # other information comes from "config.toml"
+    content : >
+      We're primarily available online. Feel free to reach out via email or our website, and we'll get back to you as soon as possible.
 
   # opennig hour
   opennigHour:

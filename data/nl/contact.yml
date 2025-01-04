@@ -4,8 +4,8 @@ contact:
   # Kantoor
   office:
     title : "Hoofdkantoor"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
-    # andere informatie komt uit "config.toml"
+    content : >
+      We zijn voornamelijk online beschikbaar. Neem gerust contact met ons op via e-mail of onze website, en we zullen zo snel mogelijk reageren.
 
   # openingstijden
   opennigHour:
