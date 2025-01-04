@@ -1,17 +1,17 @@
 ---
-title: "Uitgebreid consult"
-date: 2019-10-17T11:22:16+06:00
+title: "Comprehensive Consultation"
+date: 2024-06-04T14:00:00+02:00
 draft: false
 
 # meta description
-description : ""
+description : "Thorough analysis and advice, flexible outside regular hours."
 
 # product Price
 price: "56.32"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "Consult die vraagt uitgebreide analyse, indicatiestelling, advies en snel reactie die plaats kan vinden buiten werktijd uren"
+shortDescription: "A comprehensive consultation with thorough analysis, advice, and flexibility outside regular hours."
 
 #product ID
 productID: "2"
@@ -27,6 +27,26 @@ images:
   - image: "images/online.webp"
 ---
 
-- voor 9.00 en na 17.00 en in het weekend
-- consult duurt ongeveer 45min
-- volgt schriftelijk verslag erbij
+### Comprehensive Consultation €56.32
+
+This consultation is intended for situations requiring thorough analysis, assessment, and advice. It offers flexibility by being available outside regular working hours:
+
+- **Available before 9:00, after 17:00, and on weekends.**
+- **Duration:** approximately **45 minutes**.
+- **Includes a written report** with findings and recommendations.
+
+### What to Expect?
+
+- Thorough analysis of the complaint or question.
+- Assessment and detailed advice.
+- Opportunity to ask multiple questions.
+- Medical data is considered in the analysis with the patient's consent.
+- Focus on the close relationship between oral health and overall health.
+
+### Who is this consultation for?
+
+- Patients with complex questions or complaints.
+- People who need flexibility outside regular working hours.
+- Patients who require an in-depth discussion of their situation.
+
+This consultation offers personal attention, flexibility, and professional advice tailored to the patient's unique situation.

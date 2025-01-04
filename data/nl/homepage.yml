@@ -15,8 +15,8 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "Help met angst"
-  content : "Ook bied ik ondersteuning in de zoektocht naar een eigen tandarts, adviseer over het onderhoud en verbetering van de mondgezondheid en help met angst om te gaan in de dagelijkse praktijk."
+  title : "Hulp met angst"
+  content : "Ook bied ik ondersteuning in de zoektocht naar een eigen tandarts, adviseer over het onderhoud en verbetering van de mondgezondheid en hulp met angst om te gaan in de dagelijkse praktijk."
   image : "images/support.webp"
 
 
