@@ -35,12 +35,20 @@
         
         <!-- Language switcher -->
         {{ range .Site.Languages }}
-          {{ if not (eq . $.Site.Language) }}
-            <a class="nav-link" href="{{ relURL (print .Lang "/") }}">
-              {{ .LanguageName }}
-            </a>
+          {{ if ne . $.Site.Language }}
+            {{ $translated := where $.Page.Translations "Lang" .Lang }}
+            {{ with index $translated 0 }}
+              <a class="nav-link" href="{{ .RelPermalink }}">
+                {{ .Language.LanguageName }}
+              </a>
+            {{ else }}
+              <a class="nav-link" href="{{ relURL (print .Lang "/") }}">
+                {{ .LanguageName }}
+              </a>
+            {{ end }}
           {{ end }}
         {{ end }}
+
       </div>
       <button class="cart snipcart-summary"><a href="" class="snipcart-checkout text-dark"><i class="ti-shopping-cart"></i><span class="badge badge-primary snipcart-items-count"></span></a></button>
     </nav>
