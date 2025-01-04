@@ -6,7 +6,7 @@ author = "zenari.nl"
 email = "aleksandra@vraagdetandartsonline.nl"
 location = "Alkmaar, The Nederlands"
 copyright = ""
-snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
+snipcartApiKey = "NmFiMDRkZGQtOGE1OC00Y2YyLThhNDItNjFlNGY3M2JkODNiNjM4NzE2MDc1ODUyMTg4MjY0"
 currencySymbol = "€"
 
 [preloader]
