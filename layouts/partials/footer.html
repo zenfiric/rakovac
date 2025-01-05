@@ -56,6 +56,35 @@
 <div id="snipcart" data-api-key="{{ . }}" hidden></div>
 {{ end }}
 
+{{ with site.Params.stripeApiKey }}
+<script>
+  document.getElementById('checkout-button').addEventListener('click', async () => {
+    const { error } = await stripe.redirectToCheckout({
+      sessionId: 'YOUR_CHECKOUT_SESSION_ID'
+    });
+    if (error) {
+      console.error('Stripe Checkout Error:', error);
+    }
+  });
+</script>
+
+<script>
+  async function handleCheckout(productId, title, price) {
+    try {
+      const response = await fetch('/api/create-checkout-session', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ productId, title, price })
+      });
+      const session = await response.json();
+      await stripe.redirectToCheckout({ sessionId: session.id });
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  }
+</script>
+{{ end }}
+
 {{ "<!-- Google Maps API -->" | safeHTML }}
 <script src="{{ site.Params.gmapAPI | absURL }}"></script>
 {{ "<!-- JS Plugins -->" | safeHTML }}

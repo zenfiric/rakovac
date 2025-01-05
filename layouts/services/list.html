@@ -22,11 +22,28 @@
               {{ end }}
               <span class="lead text-primary">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
             </div>
-            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
-              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
-              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
+
+            <!-- Conditional Button Rendering -->
+            {{ if .Params.payLink }}
+            <a href="{{ .Params.payLink }}" class="btn btn-primary" target="_blank" rel="noopener">
+              {{ i18n "buy_now" }}
+            </a>
+            {{ else if site.Params.snipcartApiKey }}
+            <button class="snipcart-add-item btn btn-primary" 
+              data-item-id="{{ .Params.ProductID }}"
+              data-item-name="{{ .Title }}"
+              {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}" {{ end }}
+              data-item-price="{{ .Params.Price }}"
+              data-item-url="{{ .Permalink }}"
+              data-item-description="{{ .Description }}">
               {{ i18n "add_to_cart" }}
             </button>
+            {{ else if site.Params.stripeApiKey }}
+            <button class="btn btn-sm btn-outline-primary" onclick="handleCheckout('{{ .Params.ProductID }}', '{{ .Title }}', '{{ .Params.Price }}')">
+              {{ i18n "add_to_cart" }}
+            </button>
+            {{ end }}
+
           </div>
         </div>
       </div>

@@ -9,6 +9,7 @@ description : ""
 # product Price
 price: "56.32"
 priceBefore: ""
+payLink: "https://buy.stripe.com/test_9AQcN87tG8ZJ1lmaEG"
 
 # Product Short Description
 shortDescription: "Consult die vraagt uitgebreide analyse, indicatiestelling, advies en snel reactie die plaats kan vinden buiten werktijd uren"

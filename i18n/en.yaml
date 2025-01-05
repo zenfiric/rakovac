@@ -16,3 +16,9 @@
   translation: Ask Your Question
 - id: add_to_cart
   translation: Add to cart
+- id: buy_now
+  translation: Buy now
+- id: short_desc
+  translation: Short Description
+- id: desc
+  translation: Description

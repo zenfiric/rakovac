@@ -9,6 +9,7 @@ description : "Practical advice and solutions via email"
 # product Price
 price: "20.00"
 priceBefore: ""
+payLink: "https://buy.stripe.com/test_fZe5kG8xKek3fcc144"
 
 # Product Short Description
 shortDescription: "A consultation without extensive analysis, offering advice and solutions via email."

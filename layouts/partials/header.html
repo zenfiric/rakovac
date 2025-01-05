@@ -48,9 +48,15 @@
             {{ end }}
           {{ end }}
         {{ end }}
-
       </div>
+
+      {{ if site.Params.snipcartApiKey }}
       <button class="cart snipcart-summary"><a href="" class="snipcart-checkout text-dark"><i class="ti-shopping-cart"></i><span class="badge badge-primary snipcart-items-count"></span></a></button>
+      {{ else if site.Params.stripeApiKey }}
+      <button id="checkout-button" class="btn btn-primary">
+        <i class="ti-shopping-cart"></i> Checkout
+      </button>
+      {{ end }}
     </nav>
   </div>
 </header>

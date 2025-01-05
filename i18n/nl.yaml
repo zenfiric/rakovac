@@ -16,3 +16,9 @@
   translation: Stel je vraag
 - id: add_to_cart
   translation: Toevoegen
+- id: buy_now  
+  translation: Koop nu  
+- id: short_desc
+  translation: Korte Beschrijving
+- id: desc
+  translation: Beschrijving
