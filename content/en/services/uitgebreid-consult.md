@@ -9,7 +9,7 @@ description : "Thorough analysis and advice, flexible outside regular hours."
 # product Price
 price: "56.32"
 priceBefore: ""
-payLink: "https://buy.stripe.com/test_9AQcN87tG8ZJ1lmaEG"
+payLink: "https://buy.stripe.com/4gwcOgabucjN2Yw3ce"
 
 # Product Short Description
 shortDescription: "A comprehensive consultation with thorough analysis, advice, and flexibility outside regular hours."

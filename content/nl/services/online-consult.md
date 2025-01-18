@@ -9,7 +9,7 @@ description : "Persoonlijk advies en begeleiding"
 # product Price
 price: "26.75"
 priceBefore: ""
-payLink: "https://buy.stripe.com/test_28o4gC8xKcbV4xy4gh"
+payLink: "https://buy.stripe.com/8wM8y0cjCgA32YwaEF"
 
 # Product Short Description
 shortDescription: "Een consult van 20 minuten inclusief schriftelijk verslag, gericht op advies en mondgezondheid."

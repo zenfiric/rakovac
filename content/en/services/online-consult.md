@@ -9,7 +9,7 @@ description : "Personal advice and guidance"
 # product Price
 price: "26.75"
 priceBefore: ""
-payLink: "https://buy.stripe.com/test_28o4gC8xKcbV4xy4gh"
+payLink: "https://buy.stripe.com/8wM8y0cjCgA32YwaEF"
 
 # Product Short Description
 shortDescription: "A 20-minute consultation, including a written report, focused on advice and oral health."
