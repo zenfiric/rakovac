@@ -1,36 +1,53 @@
 ---
 title: "Terms & Conditions"
-date: 2019-10-17T11:22:16+06:00
+date: 2025-01-18T00:00:00+01:00
 draft: false
-description : "this is a meta description"
+description: "Terms and conditions for Vraag de Tandarts Online."
 ---
 
-### Terms and Condition
+### Terms and Conditions
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Please read these terms and conditions carefully. They contain important legal details to ensure a clear understanding between you as a customer and us as a service provider. At Vraag de Tandarts Online, our goal is to provide excellent service and support. If you have any issues or concerns, feel free to contact us at support@vraagdetandartsonline.nl, and we will do our best to assist you promptly and fairly.
 
-### Product Buy & delivery policy
+---
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+### Payment & Delivery Policy
 
-### Product Buy & delivery policy
+1. All payments are securely processed through trusted third-party services such as PayPal or Stripe. Vraag de Tandarts Online does not directly process payment information on its website.
+2. Once a payment is confirmed, access to the purchased service or content is provided immediately or as per the agreed delivery timeline.
+3. For any payment-related queries or issues, please contact us directly at support@vraagdetandartsonline.nl.
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+---
 
 ### Refund Policy
 
-1) Since Themefisher is offering non-tangible and irrevocable digital services, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download services or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+1. Vraag de Tandarts Online provides non-tangible digital services and resources. Refunds are generally not issued after a purchase is made.
+2. If you encounter technical issues or find that a service does not meet your expectations, contact us within 24 hours of purchase. We will work to resolve the issue promptly.
+3. Refunds, if granted, are subject to review and are processed within 3-5 business days. Refunds will be applied to the original payment method, minus any applicable handling fees.
+
+---
 
 ### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital services, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download services or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
 
-### Why We Support:
+Our support policy aims to ensure you have the best experience using our platform:
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+1. **What We Support:**
+   - Assistance with initial account setup and navigation.
+   - Guidance on using platform features and tools.
+   - Resolution of technical issues or bugs encountered on the website.
+   - Clarification of functionality or features as advertised.
+
+2. **How to Contact Support:**
+   - Reach out to our support team at support@vraagdetandartsonline.nl with your query or issue.
+   - Provide relevant details, such as your account information and a description of the problem, for faster assistance.
+
+---
+
+### Additional Information
+
+- **Intellectual Property:** All content, including resources and tools on Vraag de Tandarts Online, is the intellectual property of Vraag de Tandarts Online and may not be copied, shared, or redistributed without explicit permission.
+- **Changes to Terms:** Vraag de Tandarts Online reserves the right to modify these terms and conditions at any time. Changes will be effective upon publication on this page.
+
+---
+
+For further questions or inquiries, please contact us at info@vraagdetandartsonline.nl.

@@ -1,36 +1,53 @@
 ---
-title: "Terms & Conditions"
-date: 2019-10-17T11:22:16+06:00
+title: "Algemene Voorwaarden"
+date: 2025-01-18T00:00:00+01:00
 draft: false
-description : "this is a meta description"
+description: "Algemene voorwaarden voor Vraag de Tandarts Online."
 ---
 
-### Terms and Condition
+### Algemene Voorwaarden
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Lees deze algemene voorwaarden zorgvuldig door. Ze bevatten belangrijke juridische informatie om een duidelijk begrip te waarborgen tussen u als klant en ons als dienstverlener. Bij Vraag de Tandarts Online streven we ernaar om uitstekende service en ondersteuning te bieden. Heeft u vragen of opmerkingen? Neem dan contact met ons op via info@vraagdetandartsonline.nl, en wij doen ons best om u snel en eerlijk te helpen.
 
-### Product Buy & delivery policy
+---
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+### Betalings- en Leveringsbeleid
 
-### Product Buy & delivery policy
+1. Alle betalingen worden veilig verwerkt via vertrouwde externe services zoals PayPal of Stripe. Vraag de Tandarts Online verwerkt geen betalingsinformatie rechtstreeks via de website.
+2. Zodra een betaling is bevestigd, krijgt u direct of volgens de overeengekomen levertijd toegang tot de gekochte dienst of inhoud.
+3. Voor vragen of problemen met betrekking tot betalingen kunt u rechtstreeks contact met ons opnemen via info@vraagdetandartsonline.nl.
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+---
 
-### Refund Policy
+### Restitutiebeleid
 
-1) Since Themefisher is offering non-tangible and irrevocable digital services, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download services or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+1. Vraag de Tandarts Online biedt niet-tastbare digitale diensten en bronnen aan. Restituties worden over het algemeen niet verstrekt na een aankoop.
+2. Mocht u technische problemen ondervinden of vinden dat een dienst niet aan uw verwachtingen voldoet, neem dan binnen 24 uur na aankoop contact met ons op. We zullen het probleem zo snel mogelijk oplossen.
+3. Restituties, indien toegekend, worden onderworpen aan een beoordeling en worden binnen 3-5 werkdagen verwerkt. Restituties worden toegepast op de oorspronkelijke betaalmethode, minus eventuele toepasselijke administratiekosten.
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital services, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download services or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+---
 
-### Why We Support:
+### Ondersteuningsbeleid
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+Ons ondersteuningsbeleid is gericht op het bieden van de beste ervaring met ons platform:
+
+1. **Wat Wij Ondersteunen:**
+   - Hulp bij het initialiseren van uw account en navigatie.
+   - Begeleiding bij het gebruik van platformfuncties en tools.
+   - Oplossing van technische problemen of bugs die op de website worden ondervonden.
+   - Verduidelijking van functionaliteiten of kenmerken zoals geadverteerd.
+
+2. **Hoe Contact Opnemen:**
+   - Neem contact op met ons ondersteuningsteam via info@vraagdetandartsonline.nl met uw vraag of probleem.
+   - Geef relevante details, zoals uw accountinformatie en een beschrijving van het probleem, voor snellere hulp.
+
+---
+
+### Aanvullende Informatie
+
+- **Intellectueel Eigendom:** Alle inhoud, inclusief bronnen en tools op Vraag de Tandarts Online, is het intellectuele eigendom van Vraag de Tandarts Online en mag niet worden gekopieerd, gedeeld of herverdeeld zonder expliciete toestemming.
+- **Wijzigingen in Voorwaarden:** Vraag de Tandarts Online behoudt zich het recht voor om deze algemene voorwaarden op elk moment te wijzigen. Wijzigingen worden van kracht na publicatie op deze pagina.
+
+---
+
+Voor verdere vragen of opmerkingen kunt u contact met ons opnemen via info@vraagdetandartsonline.nl.
