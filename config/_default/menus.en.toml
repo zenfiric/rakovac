@@ -3,10 +3,10 @@
   URL = "/en/services/"
   weight = 1
 
-[[main]]
-  name = "Blog"
-  URL = "/en/blog/"
-  weight = 2
+# [[main]]
+#   name = "Blog"
+#   URL = "/en/blog/"
+#   weight = 2
 
 [[main]]
   name = "About me"
@@ -23,10 +23,10 @@
   URL = "/en/services/"
   weight = 1
 
-[[footer]]
-  name = "Blog"
-  URL = "/en/blog/"
-  weight = 2
+# [[footer]]
+#   name = "Blog"
+#   URL = "/en/blog/"
+#   weight = 2
 
 [[footer]]
   name = "About me"
