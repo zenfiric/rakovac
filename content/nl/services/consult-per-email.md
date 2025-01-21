@@ -9,7 +9,7 @@ description : "Praktisch advies en oplossingen via e-mail"
 # product Price
 price: "20.00"
 priceBefore: ""
-payLink: "https://buy.stripe.com/14k29C6Zi5VpfLi8ww"
+payLink: "https://buy.stripe.com/fZedSk5VednRcz66os"
 
 # Product Short Description
 shortDescription: "Een consult zonder uitgebreide analyse, met advies en oplossingen via e-mail."
