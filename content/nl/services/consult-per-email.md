@@ -23,9 +23,9 @@ type: "services"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/email-consult.webp"
-  - image: "images/support.webp"
-  - image: "images/online.webp"
+  - image: "images/services/email-consult.webp"
+  - image: "images/services/support.webp"
+  - image: "images/services/online.webp"
 ---
 
 ### Consult per email €20,00

@@ -23,9 +23,9 @@ type: "services"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/all-consult.webp"
-  - image: "images/support.webp"
-  - image: "images/online.webp"
+  - image: "images/services/all-consult.webp"
+  - image: "images/services/support.webp"
+  - image: "images/services/online.webp"
 ---
 
 ### Comprehensive Consultation €56.32
