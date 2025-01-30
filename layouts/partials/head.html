@@ -2,6 +2,15 @@
   <meta charset="UTF-8">
   <title>{{ .Title }}</title>
 
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ .Permalink }}">
+  <!-- Hreflang tags -->
+  {{ range .AllTranslations }}
+      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+  {{ end }}
+  <!-- x-default for global users -->
+  <link rel="alternate" hreflang="x-default" href="{{ site.BaseURL }}">
+
   {{ "<!-- Mobile Responsive Meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
