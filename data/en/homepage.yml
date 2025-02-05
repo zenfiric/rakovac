@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Online Consultations"
   content: "Through online consultations and a thorough analysis of the situation, based on radiological images and written documentation, I provide quick and expert advice."
-  image: "images/online.webp"
+  image: "images/services/online.webp"
   button:
     enable: true
     label: "All Services"
@@ -17,7 +17,7 @@ about:
   enable: true
   title: "Help with Anxiety"
   content: "I also offer support in finding a personal dentist, provide advice on maintaining and improving oral health, and help manage anxiety in daily practice."
-  image: "images/support.webp"
+  image: "images/services/support.webp"
 
 ###################### Call to action ########################
 cta:

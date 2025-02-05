@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Online consultaties"
   content: "Door middel van online consultaties en een uitgebreide analyse van de situatie, gebaseerd op röntgenologische fotos en schriftelijke documentaties, geef ik snel en deskundig advies."
-  image: "images/online.webp"
+  image: "images/services/online.webp"
   button:
     enable: true
     label: "Alle Services"
@@ -17,7 +17,7 @@ about:
   enable : true
   title : "Hulp met angst"
   content : "Ook bied ik ondersteuning in de zoektocht naar een eigen tandarts, adviseer over het onderhoud en verbetering van de mondgezondheid en hulp met angst om te gaan in de dagelijkse praktijk."
-  image : "images/support.webp"
+  image : "images/services/support.webp"
 
 
 ###################### Call to action ########################
